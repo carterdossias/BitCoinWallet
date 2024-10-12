@@ -1,0 +1,14 @@
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/bin/Debug/net8.0/BitCoinWallet
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/bin/Debug/net8.0/BitCoinWallet.deps.json
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/bin/Debug/net8.0/BitCoinWallet.runtimeconfig.json
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/bin/Debug/net8.0/BitCoinWallet.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/bin/Debug/net8.0/BitCoinWallet.pdb
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.AssemblyInfoInputs.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.AssemblyInfo.cs
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.csproj.CoreCompileInputs.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/refint/BitCoinWallet.dll
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.pdb
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/BitCoinWallet.genruntimeconfig.cache
+/Users/carterdossias/Desktop/OPIM/BUS SOFT DEV/BitCoinWallet/obj/Debug/net8.0/ref/BitCoinWallet.dll
